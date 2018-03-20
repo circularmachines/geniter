@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/johan_lagerloef/geniter/tf_models/arial.ckpt"
+all_model_checkpoint_paths: "/home/johan_lagerloef/geniter/tf_models/arial.ckpt"

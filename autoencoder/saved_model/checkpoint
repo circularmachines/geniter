@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/johan_lagerloef/geniter/autoencoder/saved_model/model.ckpt"
+all_model_checkpoint_paths: "/home/johan_lagerloef/geniter/autoencoder/saved_model/model.ckpt"
